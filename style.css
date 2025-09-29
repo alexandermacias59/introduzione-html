@@ -8,5 +8,5 @@ h1{
     border-radius: 5px;
 }
 h1:hover{
-    transform: scale(1.0);
+  color: yellow;
 }
